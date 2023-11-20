@@ -1,18 +1,43 @@
-## Getting Started
+**Home Task 2 - Basic I/O**
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+**Team Members:**
+  1. **Eraj Rizvi**
+     <br/> 
+     Matriculation Number: **7219193**
+     <br/> 
+  3. **Maria Saleem**
+     <br/>
+     Matriculation Number: **7219529**
+     <br/> 
+  5. **Yu Tian**
+     <br/>
+     Matriculation Number: **7219180**
+     <br/> 
+  7. **Aysha Fazal**
+      <br/> 
+     Matriculation Number: **7216546**
+     
+**Project Description:** 
 
-## Folder Structure
+Created a project to create a multi user access to the charging station with the following functionalities.
+1. external users who could book timeslot and be part of the prioritized queue, administrators - Eraj Rizvi
+   <br/> 
+2. Create metadata for your project - Maria Saleem
+   <br/>
+3. managing the log files:
+    <br/> 
+   a. create - Maria Saleem
+     <br/> 
+   b. move - Maria Saleem
+     <br/> 
+   c. delete - Aysha Fazal
+     <br/> 
+   d. archive - Aysha Fazal
+     <br/> 
+   Log files are divided into classes – functionality of the system, functionality of a charging station, functionality of the energy management system.
+   <br/> 
+5. Use byte and character streams for simulation of the data exchange in the system - Yu Tian
 
-The workspace contains two folders by default, where:
+***Please note that the tasks performed by each team member have been mentioned by their names after each functionality.***
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Development Environment: Eclipse IDE
