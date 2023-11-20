@@ -22,17 +22,11 @@
 Created a project to create a multi user access to the charging station with the following functionalities.
 1. external users who could book timeslot and be part of the prioritized queue, administrators - Eraj Rizvi
    <br/> 
-2. Create metadata for your project - Maria Saleem
-   <br/>
-3. managing the log files:
+2. Create metadata for your project managing the log files:
     <br/> 
-   a. create - Maria Saleem
+   create, move - Maria Saleem
      <br/> 
-   b. move - Maria Saleem
-     <br/> 
-   c. delete - Aysha Fazal
-     <br/> 
-   d. archive - Aysha Fazal
+   delete, archive - Aysha Fazal
      <br/> 
    Log files are divided into classes – functionality of the system, functionality of a charging station, functionality of the energy management system.
    <br/> 
