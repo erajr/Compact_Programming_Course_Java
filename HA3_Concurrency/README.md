@@ -20,16 +20,16 @@
 **Project Description:** 
 
 Created a project which allows vehichle to charge simultaneously depending on the available charging resources.
-1. Simulation of the system allowing vehicles to charge simultaneously 1..N vehicles - depending on the available resources. - Maria Saleem
+1. Simulation of the system allowing vehicles to charge simultaneously 1..N vehicles - depending on the available resources.   - Maria Saleem
    <br/>
      <br/> 
-3. Simulation of the charging of cars in parallel at 2..N charging stations - car arriving in random moment of time. - Eraj Rizvi
+3. Simulation of the charging of cars in parallel at 2..N charging stations - car arriving in random moment of time.   - Eraj Rizvi
    <br/>
      <br/> 
-5. When the car appear in the queue should be calculated the waiting time, if time is more then 15 min car leaving the queue. - Aysha Fazal
+5. When the car appear in the queue should be calculated the waiting time, if time is more then 15 min car leaving the queue.   - Aysha Fazal
    <br/>
      <br/> 
-7. Multithread simuation - charging of the reserved batteries from several energy sources. - Yu Tian
+7. Multithread simuation - charging of the reserved batteries from several energy sources.   - Yu Tian
 
 ***Please note that the tasks performed by each team member have been mentioned by their names after each functionality.***
 
