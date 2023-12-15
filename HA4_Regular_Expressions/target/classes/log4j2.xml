@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Appenders>
+        <!-- For the whole system logs, we configure it this way -->
+        <File name="system" fileName="logs/System.log">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+        </File>
+
+        <!-- Here we have to create 'n' number of files. n = number of charging stations. -->
+		<!-- RollingFile creates log file -->
+		<!-- filePatterns are used to generate previous logs -->
+        <RollingFile name="chargingStation1" fileName="logs/ChargingStation-1.log" filePattern="logs/$${date:yyyy-MM}/ChargingStation-1-%d{-dd-MMMM-yyyy}-%i.log.gz">
+			<!-- PatternLayout tells the proper format of how logs are printed in file -->
+			<PatternLayout pattern="%d{yyyyMMdd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+			<!-- for every RollingFile, we set three policies -->
+			<Policies>
+				<!-- rollover on startup, daily and when the file reaches 10 MegaBytes -->
+				<!-- for every restart, it creates new log file -->
+				<OnStartupTriggeringPolicy /> 
+				<!-- If size exceed 10MBs, it creates new log file -->
+				<SizeBasedTriggeringPolicy size="10 MB" />
+				<!-- After every 24hours, it creates new log file -->
+				<TimeBasedTriggeringPolicy />
+			</Policies>
+		</RollingFile>
+        <RollingFile name="chargingStation2" fileName="logs/ChargingStation-2.log" filePattern="logs/$${date:yyyy-MM}/ChargingStation-2-%d{-dd-MMMM-yyyy}-%i.log.gz">
+			<PatternLayout pattern="%d{yyyyMMdd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+			<Policies>
+				<OnStartupTriggeringPolicy />
+				<SizeBasedTriggeringPolicy size="10 MB" />
+				<TimeBasedTriggeringPolicy />
+			</Policies>
+		</RollingFile>
+        <RollingFile name="chargingStation3" fileName="logs/ChargingStation-3.log" filePattern="logs/$${date:yyyy-MM}/ChargingStation-3-%d{-dd-MMMM-yyyy}-%i.log.gz">
+			<PatternLayout pattern="%d{yyyyMMdd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+			<Policies>
+				<OnStartupTriggeringPolicy />
+				<SizeBasedTriggeringPolicy size="10 MB" />
+				<TimeBasedTriggeringPolicy />
+			</Policies>
+		</RollingFile>
+        <RollingFile name="chargingStation4" fileName="logs/ChargingStation-4.log" filePattern="logs/$${date:yyyy-MM}/ChargingStation-4-%d{-dd-MMMM-yyyy}-%i.log.gz">
+			<PatternLayout pattern="%d{yyyyMMdd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+			<Policies>
+				<OnStartupTriggeringPolicy />
+				<SizeBasedTriggeringPolicy size="10 MB" />
+				<TimeBasedTriggeringPolicy />
+			</Policies>
+		</RollingFile>
+        <RollingFile name="chargingStation5" fileName="logs/ChargingStation-5.log" filePattern="logs/$${date:yyyy-MM}/ChargingStation-5-%d{-dd-MMMM-yyyy}-%i.log.gz">
+			<PatternLayout pattern="%d{yyyyMMdd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+			<Policies>
+				<OnStartupTriggeringPolicy />
+				<SizeBasedTriggeringPolicy size="10 MB" />
+				<TimeBasedTriggeringPolicy />
+			</Policies>
+		</RollingFile>
+
+
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+        </Console>
+    </Appenders>
+    <Loggers>
+        <Logger name="chargingStation1" level="info">
+            <AppenderRef ref="chargingStation1" />
+        </Logger>
+        <Logger name="chargingStation2" level="info">
+            <AppenderRef ref="chargingStation2" />
+        </Logger>
+        <Logger name="chargingStation3" level="info">
+            <AppenderRef ref="chargingStation3" />
+        </Logger>
+        <Logger name="chargingStation4" level="info">
+            <AppenderRef ref="chargingStation4" />
+        </Logger>
+        <Logger name="chargingStation5" level="info">
+            <AppenderRef ref="chargingStation5" />
+        </Logger>
+        <Root level="debug">
+            <AppenderRef ref="Console" />
+        </Root>
+    </Loggers>
+</Configuration>
