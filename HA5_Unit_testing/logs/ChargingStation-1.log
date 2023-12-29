@@ -1,0 +1,10 @@
+20231221 20:25:09.966 [main] INFO  chargingStation1 - Vehicle 10 is assigned to station with ID:1.
+20231221 20:25:09.972 [main] INFO  chargingStation1 - Station ID: 1 is free.
+20231221 20:25:09.972 [main] INFO  chargingStation1 - Vehicle id : 100 is assigned to to the station 1 for the charging
+20231221 20:25:09.983 [main] INFO  chargingStation1 - Vehicle 1 is assigned to station with ID:1.
+20231221 20:25:09.986 [main] INFO  chargingStation1 - Vehicle 1 is assigned to station with ID:1.
+20231221 20:25:29.978 [pool-2-thread-1] INFO  chargingStation1 - Station ID: 1 is free.
+20231221 20:25:29.991 [main] INFO  chargingStation1 - Station ID: 1 is free.
+20231221 20:25:29.995 [main] INFO  chargingStation1 - Vehicle 1 is assigned to station with ID:1.
+20231221 20:25:29.995 [main] INFO  chargingStation1 - Station ID: 1 is free.
+20231221 20:25:29.995 [main] INFO  chargingStation1 - Vehicle id : 1 is assigned to to the station 1 for the charging
