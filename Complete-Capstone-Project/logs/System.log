@@ -1,0 +1,818 @@
+2024-02-02 21:28:12.269 [main] INFO  ChargingSystem - Vehicle 187 is arrived.
+2024-02-02 21:28:12.270 [main] INFO  ChargingSystem - Vehicle 187 is assigned to station with ID:1.
+2024-02-02 21:28:12.270 [pool-2-thread-1] INFO  ChargingSystem - Vehicle 187 charging started.
+2024-02-02 21:28:12.808 [main] INFO  ChargingSystem - Vehicle 64 is arrived.
+2024-02-02 21:28:12.808 [main] INFO  ChargingSystem - Vehicle 64 is assigned to station with ID:2.
+2024-02-02 21:28:12.809 [pool-2-thread-2] INFO  ChargingSystem - Vehicle 64 charging started.
+2024-02-02 21:28:14.478 [main] INFO  ChargingSystem - Vehicle 366 is arrived.
+2024-02-02 21:28:14.478 [main] INFO  ChargingSystem - Vehicle 366 is assigned to station with ID:3.
+2024-02-02 21:28:14.479 [pool-2-thread-3] INFO  ChargingSystem - Vehicle 366 charging started.
+2024-02-02 21:28:15.646 [main] INFO  ChargingSystem - Vehicle 429 is arrived.
+2024-02-02 21:28:15.646 [main] INFO  ChargingSystem - Vehicle 429 is assigned to station with ID:4.
+2024-02-02 21:28:15.647 [pool-2-thread-4] INFO  ChargingSystem - Vehicle 429 charging started.
+2024-02-02 21:28:16.178 [main] INFO  ChargingSystem - Vehicle 57 is arrived.
+2024-02-02 21:28:16.178 [main] INFO  ChargingSystem - Vehicle 57 is assigned to station with ID:5.
+2024-02-02 21:28:16.178 [pool-2-thread-5] INFO  ChargingSystem - Vehicle 57 charging started.
+2024-02-02 21:28:17.709 [main] INFO  ChargingSystem - Vehicle 33 is arrived.
+2024-02-02 21:28:17.709 [main] INFO  ChargingSystem - Vehicle 33 is assigned to station with ID:6.
+2024-02-02 21:28:17.709 [pool-2-thread-6] INFO  ChargingSystem - Vehicle 33 charging started.
+2024-02-02 21:28:17.877 [main] INFO  ChargingSystem - Vehicle 450 is arrived.
+2024-02-02 21:28:17.877 [main] INFO  ChargingSystem - Vehicle 450 is assigned to station with ID:7.
+2024-02-02 21:28:17.878 [pool-2-thread-7] INFO  ChargingSystem - Vehicle 450 charging started.
+2024-02-02 21:28:17.929 [main] INFO  ChargingSystem - Vehicle 177 is arrived.
+2024-02-02 21:28:17.929 [main] INFO  ChargingSystem - Vehicle 177 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:18.826 [main] INFO  ChargingSystem - Vehicle 380 is arrived.
+2024-02-02 21:28:18.826 [main] INFO  ChargingSystem - Vehicle 380 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:19.929 [main] INFO  ChargingSystem - Vehicle 302 is arrived.
+2024-02-02 21:28:19.929 [main] INFO  ChargingSystem - Vehicle 302 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:21.016 [main] INFO  ChargingSystem - Vehicle 143 is arrived.
+2024-02-02 21:28:21.016 [main] INFO  ChargingSystem - Vehicle 143 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:21.681 [main] INFO  ChargingSystem - Vehicle 356 is arrived.
+2024-02-02 21:28:21.681 [main] INFO  ChargingSystem - Vehicle 356 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:23.013 [main] INFO  ChargingSystem - Vehicle 150 is arrived.
+2024-02-02 21:28:23.013 [main] INFO  ChargingSystem - Vehicle 150 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:24.070 [main] INFO  ChargingSystem - Vehicle 106 is arrived.
+2024-02-02 21:28:24.070 [main] INFO  ChargingSystem - Vehicle 106 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:24.424 [main] INFO  ChargingSystem - Vehicle 18 is arrived.
+2024-02-02 21:28:24.424 [main] INFO  ChargingSystem - Vehicle 18 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:25.380 [main] INFO  ChargingSystem - Vehicle 319 is arrived.
+2024-02-02 21:28:25.380 [main] INFO  ChargingSystem - Vehicle 319 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:26.195 [main] INFO  ChargingSystem - Vehicle 232 is arrived.
+2024-02-02 21:28:26.195 [main] INFO  ChargingSystem - Vehicle 232 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:27.530 [main] INFO  ChargingSystem - Vehicle 499 is arrived.
+2024-02-02 21:28:27.530 [main] INFO  ChargingSystem - Vehicle 499 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:29.122 [main] INFO  ChargingSystem - Vehicle 176 is arrived.
+2024-02-02 21:28:29.122 [main] INFO  ChargingSystem - Vehicle 176 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:29.627 [main] INFO  ChargingSystem - Vehicle 295 is arrived.
+2024-02-02 21:28:29.627 [main] INFO  ChargingSystem - Vehicle 295 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:29.627 [main] WARN  ChargingSystem - Vehicle 177 waited for more than 5 seconds and has left the queue.
+2024-02-02 21:28:29.628 [main] WARN  ChargingSystem - Vehicle 380 waited for more than 5 seconds and has left the queue.
+2024-02-02 21:28:31.351 [main] INFO  ChargingSystem - Vehicle 446 is arrived.
+2024-02-02 21:28:31.351 [main] INFO  ChargingSystem - Vehicle 446 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:32.273 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:28:32.274 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 302 is assigned to to the station 1 for the charging
+2024-02-02 21:28:32.274 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:28:32.275 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 143 is assigned to to the station 2 for the charging
+2024-02-02 21:28:32.275 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:28:32.275 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 356 is assigned to to the station 3 for the charging
+2024-02-02 21:28:32.276 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:28:32.276 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 150 is assigned to to the station 4 for the charging
+2024-02-02 21:28:32.276 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 5 is free.
+2024-02-02 21:28:32.277 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 106 is assigned to to the station 5 for the charging
+2024-02-02 21:28:32.277 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 6 is free.
+2024-02-02 21:28:32.277 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 18 is assigned to to the station 6 for the charging
+2024-02-02 21:28:32.277 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 7 is free.
+2024-02-02 21:28:32.277 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 319 is assigned to to the station 7 for the charging
+2024-02-02 21:28:32.278 [pool-2-thread-1] INFO  ChargingSystem - Vehicle 302 charging started.
+2024-02-02 21:28:32.403 [main] INFO  ChargingSystem - Vehicle 452 is arrived.
+2024-02-02 21:28:32.403 [main] INFO  ChargingSystem - Vehicle 452 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:32.810 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:28:32.810 [pool-2-thread-2] INFO  ChargingSystem - Vehicle id : 232 is assigned to to the station 1 for the charging
+2024-02-02 21:28:32.810 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:28:32.810 [pool-2-thread-2] INFO  ChargingSystem - Vehicle id : 499 is assigned to to the station 2 for the charging
+2024-02-02 21:28:32.810 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:28:32.811 [pool-2-thread-2] INFO  ChargingSystem - Vehicle id : 176 is assigned to to the station 3 for the charging
+2024-02-02 21:28:32.811 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:28:32.811 [pool-2-thread-2] INFO  ChargingSystem - Vehicle id : 295 is assigned to to the station 4 for the charging
+2024-02-02 21:28:32.812 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 5 is free.
+2024-02-02 21:28:32.812 [pool-2-thread-2] INFO  ChargingSystem - Vehicle id : 446 is assigned to to the station 5 for the charging
+2024-02-02 21:28:32.812 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 6 is free.
+2024-02-02 21:28:32.812 [pool-2-thread-2] INFO  ChargingSystem - Vehicle id : 452 is assigned to to the station 6 for the charging
+2024-02-02 21:28:32.812 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 7 is free.
+2024-02-02 21:28:32.813 [pool-2-thread-2] INFO  ChargingSystem - Vehicle 143 charging started.
+2024-02-02 21:28:32.994 [main] INFO  ChargingSystem - Vehicle 483 is arrived.
+2024-02-02 21:28:32.994 [main] INFO  ChargingSystem - Vehicle 483 is assigned to station with ID:7.
+2024-02-02 21:28:33.512 [main] INFO  ChargingSystem - Vehicle 264 is arrived.
+2024-02-02 21:28:33.512 [main] INFO  ChargingSystem - Vehicle 264 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:34.463 [main] INFO  ChargingSystem - Vehicle 358 is arrived.
+2024-02-02 21:28:34.463 [main] INFO  ChargingSystem - Vehicle 358 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:34.482 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:28:34.482 [pool-2-thread-3] INFO  ChargingSystem - Vehicle id : 264 is assigned to to the station 1 for the charging
+2024-02-02 21:28:34.482 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:28:34.483 [pool-2-thread-3] INFO  ChargingSystem - Vehicle id : 358 is assigned to to the station 2 for the charging
+2024-02-02 21:28:34.483 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:28:34.483 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:28:34.483 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 5 is free.
+2024-02-02 21:28:34.484 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 6 is free.
+2024-02-02 21:28:34.484 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 7 is free.
+2024-02-02 21:28:34.484 [pool-2-thread-3] INFO  ChargingSystem - Vehicle 356 charging started.
+2024-02-02 21:28:34.538 [main] INFO  ChargingSystem - Vehicle 396 is arrived.
+2024-02-02 21:28:34.538 [main] INFO  ChargingSystem - Vehicle 396 is assigned to station with ID:3.
+2024-02-02 21:28:35.490 [main] INFO  ChargingSystem - Vehicle 92 is arrived.
+2024-02-02 21:28:35.490 [main] INFO  ChargingSystem - Vehicle 92 is assigned to station with ID:4.
+2024-02-02 21:28:35.649 [pool-2-thread-4] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:28:35.649 [pool-2-thread-4] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:28:35.649 [pool-2-thread-4] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:28:35.649 [pool-2-thread-4] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:28:35.649 [pool-2-thread-4] INFO  ChargingSystem - Vehicle 150 charging started.
+2024-02-02 21:28:36.191 [pool-2-thread-5] INFO  ChargingSystem - Vehicle 106 charging started.
+2024-02-02 21:28:36.728 [main] INFO  ChargingSystem - Vehicle 199 is arrived.
+2024-02-02 21:28:36.728 [main] INFO  ChargingSystem - Vehicle 199 is assigned to station with ID:1.
+2024-02-02 21:28:37.710 [pool-2-thread-6] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:28:37.710 [pool-2-thread-6] INFO  ChargingSystem - Vehicle 18 charging started.
+2024-02-02 21:28:37.862 [main] INFO  ChargingSystem - Vehicle 53 is arrived.
+2024-02-02 21:28:37.862 [main] INFO  ChargingSystem - Vehicle 53 is assigned to station with ID:1.
+2024-02-02 21:28:37.892 [pool-2-thread-7] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:28:37.892 [pool-2-thread-7] INFO  ChargingSystem - Vehicle 319 charging started.
+2024-02-02 21:28:38.539 [main] INFO  ChargingSystem - Vehicle 346 is arrived.
+2024-02-02 21:28:38.539 [main] INFO  ChargingSystem - Vehicle 346 is assigned to station with ID:1.
+2024-02-02 21:28:39.663 [main] INFO  ChargingSystem - Vehicle 177 is arrived.
+2024-02-02 21:28:39.663 [main] INFO  ChargingSystem - Vehicle 177 is assigned to station with ID:2.
+2024-02-02 21:28:40.187 [main] INFO  ChargingSystem - Vehicle 441 is arrived.
+2024-02-02 21:28:40.187 [main] INFO  ChargingSystem - Vehicle 441 is assigned to station with ID:3.
+2024-02-02 21:28:40.577 [main] INFO  ChargingSystem - Vehicle 71 is arrived.
+2024-02-02 21:28:40.577 [main] INFO  ChargingSystem - Vehicle 71 is assigned to station with ID:4.
+2024-02-02 21:28:41.024 [main] INFO  ChargingSystem - Vehicle 49 is arrived.
+2024-02-02 21:28:41.024 [main] INFO  ChargingSystem - Vehicle 49 is assigned to station with ID:5.
+2024-02-02 21:28:42.877 [main] INFO  ChargingSystem - Vehicle 398 is arrived.
+2024-02-02 21:28:42.877 [main] INFO  ChargingSystem - Vehicle 398 is assigned to station with ID:6.
+2024-02-02 21:28:43.205 [main] INFO  ChargingSystem - Vehicle 284 is arrived.
+2024-02-02 21:28:43.206 [main] INFO  ChargingSystem - Vehicle 284 is assigned to station with ID:7.
+2024-02-02 21:28:43.545 [main] INFO  ChargingSystem - Vehicle 333 is arrived.
+2024-02-02 21:28:43.545 [main] INFO  ChargingSystem - Vehicle 333 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:44.173 [main] INFO  ChargingSystem - Vehicle 191 is arrived.
+2024-02-02 21:28:44.173 [main] INFO  ChargingSystem - Vehicle 191 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:44.819 [main] INFO  ChargingSystem - Vehicle 77 is arrived.
+2024-02-02 21:28:44.819 [main] INFO  ChargingSystem - Vehicle 77 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:46.218 [main] INFO  ChargingSystem - Vehicle 122 is arrived.
+2024-02-02 21:28:46.218 [main] INFO  ChargingSystem - Vehicle 122 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:47.984 [main] INFO  ChargingSystem - Vehicle 499 is arrived.
+2024-02-02 21:28:47.984 [main] INFO  ChargingSystem - Vehicle 499 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:49.614 [main] INFO  ChargingSystem - Vehicle 351 is arrived.
+2024-02-02 21:28:49.614 [main] INFO  ChargingSystem - Vehicle 351 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:50.005 [main] INFO  ChargingSystem - Vehicle 215 is arrived.
+2024-02-02 21:28:50.005 [main] INFO  ChargingSystem - Vehicle 215 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:50.067 [main] INFO  ChargingSystem - Vehicle 133 is arrived.
+2024-02-02 21:28:50.067 [main] INFO  ChargingSystem - Vehicle 133 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:50.287 [main] INFO  ChargingSystem - Vehicle 429 is arrived.
+2024-02-02 21:28:50.287 [main] INFO  ChargingSystem - Vehicle 429 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:50.336 [main] INFO  ChargingSystem - Vehicle 308 is arrived.
+2024-02-02 21:28:50.336 [main] INFO  ChargingSystem - Vehicle 308 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:51.753 [main] INFO  ChargingSystem - Vehicle 182 is arrived.
+2024-02-02 21:28:51.753 [main] INFO  ChargingSystem - Vehicle 182 is getting into queue becuase all stations are occupied.
+2024-02-02 21:28:52.278 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:28:52.278 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 333 is assigned to to the station 1 for the charging
+2024-02-02 21:28:52.278 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:28:52.279 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 191 is assigned to to the station 2 for the charging
+2024-02-02 21:28:52.279 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:28:52.280 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 77 is assigned to to the station 3 for the charging
+2024-02-02 21:28:52.280 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:28:52.280 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 122 is assigned to to the station 4 for the charging
+2024-02-02 21:28:52.281 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 5 is free.
+2024-02-02 21:28:52.281 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 499 is assigned to to the station 5 for the charging
+2024-02-02 21:28:52.281 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 6 is free.
+2024-02-02 21:28:52.281 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 351 is assigned to to the station 6 for the charging
+2024-02-02 21:28:52.282 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 7 is free.
+2024-02-02 21:28:52.282 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 215 is assigned to to the station 7 for the charging
+2024-02-02 21:28:52.282 [pool-2-thread-1] INFO  ChargingSystem - Vehicle 232 charging started.
+2024-02-02 21:28:52.814 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:28:52.814 [pool-2-thread-2] INFO  ChargingSystem - Vehicle id : 133 is assigned to to the station 1 for the charging
+2024-02-02 21:28:52.814 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:28:52.814 [pool-2-thread-2] INFO  ChargingSystem - Vehicle id : 429 is assigned to to the station 2 for the charging
+2024-02-02 21:28:52.814 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:28:52.815 [pool-2-thread-2] INFO  ChargingSystem - Vehicle id : 308 is assigned to to the station 3 for the charging
+2024-02-02 21:28:52.815 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:28:52.815 [pool-2-thread-2] INFO  ChargingSystem - Vehicle id : 182 is assigned to to the station 4 for the charging
+2024-02-02 21:28:52.815 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 5 is free.
+2024-02-02 21:28:52.815 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 6 is free.
+2024-02-02 21:28:52.815 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 7 is free.
+2024-02-02 21:28:52.815 [pool-2-thread-2] INFO  ChargingSystem - Vehicle 499 charging started.
+2024-02-02 21:28:53.536 [main] INFO  ChargingSystem - Vehicle 36 is arrived.
+2024-02-02 21:28:53.549 [main] INFO  ChargingSystem - Vehicle 36 is assigned to station with ID:5.
+2024-02-02 21:28:53.638 [main] INFO  ChargingSystem - Vehicle 399 is arrived.
+2024-02-02 21:28:53.638 [main] INFO  ChargingSystem - Vehicle 399 is assigned to station with ID:6.
+2024-02-02 21:28:54.486 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:28:54.486 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:28:54.486 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:28:54.486 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:28:54.487 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 5 is free.
+2024-02-02 21:28:54.487 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 6 is free.
+2024-02-02 21:28:54.487 [pool-2-thread-3] INFO  ChargingSystem - Vehicle 176 charging started.
+2024-02-02 21:28:54.550 [main] INFO  ChargingSystem - Vehicle 278 is arrived.
+2024-02-02 21:28:54.550 [main] INFO  ChargingSystem - Vehicle 278 is assigned to station with ID:1.
+2024-02-02 21:28:55.651 [pool-2-thread-4] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:28:55.651 [pool-2-thread-4] INFO  ChargingSystem - Vehicle 295 charging started.
+2024-02-02 21:28:55.775 [main] INFO  ChargingSystem - Vehicle 14 is arrived.
+2024-02-02 21:28:55.775 [main] INFO  ChargingSystem - Vehicle 14 is assigned to station with ID:1.
+2024-02-02 21:28:56.192 [pool-2-thread-5] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:28:56.192 [pool-2-thread-5] INFO  ChargingSystem - Vehicle 446 charging started.
+2024-02-02 21:28:56.592 [main] INFO  ChargingSystem - Vehicle 46 is arrived.
+2024-02-02 21:28:56.592 [main] INFO  ChargingSystem - Vehicle 46 is assigned to station with ID:1.
+2024-02-02 21:28:57.522 [main] INFO  ChargingSystem - Vehicle 467 is arrived.
+2024-02-02 21:28:57.522 [main] INFO  ChargingSystem - Vehicle 467 is assigned to station with ID:2.
+2024-02-02 21:28:57.713 [pool-2-thread-6] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:28:57.713 [pool-2-thread-6] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:28:57.714 [pool-2-thread-6] INFO  ChargingSystem - Vehicle 452 charging started.
+2024-02-02 21:28:57.893 [pool-2-thread-7] INFO  ChargingSystem - Vehicle 483 charging started.
+2024-02-02 21:28:58.107 [main] INFO  ChargingSystem - Vehicle 226 is arrived.
+2024-02-02 21:28:58.107 [main] INFO  ChargingSystem - Vehicle 226 is assigned to station with ID:1.
+2024-02-02 21:28:58.573 [main] INFO  ChargingSystem - Vehicle 375 is arrived.
+2024-02-02 21:28:58.573 [main] INFO  ChargingSystem - Vehicle 375 is assigned to station with ID:2.
+2024-02-02 21:29:00.220 [main] INFO  ChargingSystem - Vehicle 399 is arrived.
+2024-02-02 21:29:00.220 [main] INFO  ChargingSystem - Vehicle 399 is assigned to station with ID:3.
+2024-02-02 21:29:01.336 [main] INFO  ChargingSystem - Vehicle 7 is arrived.
+2024-02-02 21:29:01.336 [main] INFO  ChargingSystem - Vehicle 7 is assigned to station with ID:4.
+2024-02-02 21:29:02.878 [main] INFO  ChargingSystem - Vehicle 439 is arrived.
+2024-02-02 21:29:02.878 [main] INFO  ChargingSystem - Vehicle 439 is assigned to station with ID:5.
+2024-02-02 21:29:04.084 [main] INFO  ChargingSystem - Vehicle 335 is arrived.
+2024-02-02 21:29:04.084 [main] INFO  ChargingSystem - Vehicle 335 is assigned to station with ID:6.
+2024-02-02 21:29:04.717 [main] INFO  ChargingSystem - Vehicle 252 is arrived.
+2024-02-02 21:29:04.717 [main] INFO  ChargingSystem - Vehicle 252 is assigned to station with ID:7.
+2024-02-02 21:29:06.125 [main] INFO  ChargingSystem - Vehicle 149 is arrived.
+2024-02-02 21:29:06.125 [main] INFO  ChargingSystem - Vehicle 149 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:07.963 [main] INFO  ChargingSystem - Vehicle 145 is arrived.
+2024-02-02 21:29:07.963 [main] INFO  ChargingSystem - Vehicle 145 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:08.482 [main] INFO  ChargingSystem - Vehicle 213 is arrived.
+2024-02-02 21:29:08.482 [main] INFO  ChargingSystem - Vehicle 213 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:10.431 [main] INFO  ChargingSystem - Vehicle 23 is arrived.
+2024-02-02 21:29:10.431 [main] INFO  ChargingSystem - Vehicle 23 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:11.050 [main] INFO  ChargingSystem - Vehicle 220 is arrived.
+2024-02-02 21:29:11.050 [main] INFO  ChargingSystem - Vehicle 220 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:12.026 [main] INFO  ChargingSystem - Vehicle 270 is arrived.
+2024-02-02 21:29:12.026 [main] INFO  ChargingSystem - Vehicle 270 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:12.284 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:29:12.284 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 149 is assigned to to the station 1 for the charging
+2024-02-02 21:29:12.284 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:29:12.284 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 145 is assigned to to the station 2 for the charging
+2024-02-02 21:29:12.284 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:29:12.285 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 213 is assigned to to the station 3 for the charging
+2024-02-02 21:29:12.285 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:29:12.285 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 23 is assigned to to the station 4 for the charging
+2024-02-02 21:29:12.285 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 5 is free.
+2024-02-02 21:29:12.285 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 220 is assigned to to the station 5 for the charging
+2024-02-02 21:29:12.285 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 6 is free.
+2024-02-02 21:29:12.285 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 270 is assigned to to the station 6 for the charging
+2024-02-02 21:29:12.285 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 7 is free.
+2024-02-02 21:29:12.286 [pool-2-thread-1] INFO  ChargingSystem - Vehicle 264 charging started.
+2024-02-02 21:29:12.826 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:29:12.826 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:29:12.826 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:29:12.826 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:29:12.826 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 5 is free.
+2024-02-02 21:29:12.826 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 6 is free.
+2024-02-02 21:29:12.827 [pool-2-thread-2] INFO  ChargingSystem - Vehicle 358 charging started.
+2024-02-02 21:29:12.879 [main] INFO  ChargingSystem - Vehicle 135 is arrived.
+2024-02-02 21:29:12.879 [main] INFO  ChargingSystem - Vehicle 135 is assigned to station with ID:1.
+2024-02-02 21:29:14.488 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:29:14.488 [pool-2-thread-3] INFO  ChargingSystem - Vehicle 396 charging started.
+2024-02-02 21:29:14.705 [main] INFO  ChargingSystem - Vehicle 438 is arrived.
+2024-02-02 21:29:14.705 [main] INFO  ChargingSystem - Vehicle 438 is assigned to station with ID:1.
+2024-02-02 21:29:15.653 [pool-2-thread-4] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:29:15.653 [pool-2-thread-4] INFO  ChargingSystem - Vehicle 92 charging started.
+2024-02-02 21:29:16.207 [pool-2-thread-5] INFO  ChargingSystem - Vehicle 199 charging started.
+2024-02-02 21:29:16.661 [main] INFO  ChargingSystem - Vehicle 350 is arrived.
+2024-02-02 21:29:16.661 [main] INFO  ChargingSystem - Vehicle 350 is assigned to station with ID:1.
+2024-02-02 21:29:16.882 [main] INFO  ChargingSystem - Vehicle 445 is arrived.
+2024-02-02 21:29:16.882 [main] INFO  ChargingSystem - Vehicle 445 is assigned to station with ID:2.
+2024-02-02 21:29:17.716 [pool-2-thread-6] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:29:17.716 [pool-2-thread-6] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:29:17.716 [pool-2-thread-6] INFO  ChargingSystem - Vehicle 53 charging started.
+2024-02-02 21:29:17.894 [pool-2-thread-7] INFO  ChargingSystem - Vehicle 346 charging started.
+2024-02-02 21:29:18.315 [main] INFO  ChargingSystem - Vehicle 45 is arrived.
+2024-02-02 21:29:18.315 [main] INFO  ChargingSystem - Vehicle 45 is assigned to station with ID:1.
+2024-02-02 21:29:18.761 [main] INFO  ChargingSystem - Vehicle 106 is arrived.
+2024-02-02 21:29:18.761 [main] INFO  ChargingSystem - Vehicle 106 is assigned to station with ID:2.
+2024-02-02 21:29:19.722 [main] INFO  ChargingSystem - Vehicle 253 is arrived.
+2024-02-02 21:29:19.722 [main] INFO  ChargingSystem - Vehicle 253 is assigned to station with ID:3.
+2024-02-02 21:29:19.959 [main] INFO  ChargingSystem - Vehicle 349 is arrived.
+2024-02-02 21:29:19.959 [main] INFO  ChargingSystem - Vehicle 349 is assigned to station with ID:4.
+2024-02-02 21:29:21.647 [main] INFO  ChargingSystem - Vehicle 372 is arrived.
+2024-02-02 21:29:21.647 [main] INFO  ChargingSystem - Vehicle 372 is assigned to station with ID:5.
+2024-02-02 21:29:23.065 [main] INFO  ChargingSystem - Vehicle 490 is arrived.
+2024-02-02 21:29:23.065 [main] INFO  ChargingSystem - Vehicle 490 is assigned to station with ID:6.
+2024-02-02 21:29:23.613 [main] INFO  ChargingSystem - Vehicle 380 is arrived.
+2024-02-02 21:29:23.613 [main] INFO  ChargingSystem - Vehicle 380 is assigned to station with ID:7.
+2024-02-02 21:29:23.910 [main] INFO  ChargingSystem - Vehicle 116 is arrived.
+2024-02-02 21:29:23.910 [main] INFO  ChargingSystem - Vehicle 116 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:25.204 [main] INFO  ChargingSystem - Vehicle 215 is arrived.
+2024-02-02 21:29:25.204 [main] INFO  ChargingSystem - Vehicle 215 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:25.466 [main] INFO  ChargingSystem - Vehicle 231 is arrived.
+2024-02-02 21:29:25.466 [main] INFO  ChargingSystem - Vehicle 231 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:26.408 [main] INFO  ChargingSystem - Vehicle 381 is arrived.
+2024-02-02 21:29:26.408 [main] INFO  ChargingSystem - Vehicle 381 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:27.034 [main] INFO  ChargingSystem - Vehicle 157 is arrived.
+2024-02-02 21:29:27.034 [main] INFO  ChargingSystem - Vehicle 157 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:28.351 [main] INFO  ChargingSystem - Vehicle 450 is arrived.
+2024-02-02 21:29:28.351 [main] INFO  ChargingSystem - Vehicle 450 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:29.295 [main] INFO  ChargingSystem - Vehicle 395 is arrived.
+2024-02-02 21:29:29.295 [main] INFO  ChargingSystem - Vehicle 395 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:30.917 [main] INFO  ChargingSystem - Vehicle 43 is arrived.
+2024-02-02 21:29:30.917 [main] INFO  ChargingSystem - Vehicle 43 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:32.058 [main] INFO  ChargingSystem - Vehicle 480 is arrived.
+2024-02-02 21:29:32.058 [main] INFO  ChargingSystem - Vehicle 480 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:32.287 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:29:32.287 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 116 is assigned to to the station 1 for the charging
+2024-02-02 21:29:32.287 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:29:32.287 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 215 is assigned to to the station 2 for the charging
+2024-02-02 21:29:32.287 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:29:32.287 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 231 is assigned to to the station 3 for the charging
+2024-02-02 21:29:32.287 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:29:32.288 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 381 is assigned to to the station 4 for the charging
+2024-02-02 21:29:32.288 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 5 is free.
+2024-02-02 21:29:32.288 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 157 is assigned to to the station 5 for the charging
+2024-02-02 21:29:32.288 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 6 is free.
+2024-02-02 21:29:32.288 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 450 is assigned to to the station 6 for the charging
+2024-02-02 21:29:32.288 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 7 is free.
+2024-02-02 21:29:32.288 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 395 is assigned to to the station 7 for the charging
+2024-02-02 21:29:32.288 [pool-2-thread-1] INFO  ChargingSystem - Vehicle 177 charging started.
+2024-02-02 21:29:32.827 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:29:32.827 [pool-2-thread-2] INFO  ChargingSystem - Vehicle id : 43 is assigned to to the station 1 for the charging
+2024-02-02 21:29:32.827 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:29:32.827 [pool-2-thread-2] INFO  ChargingSystem - Vehicle id : 480 is assigned to to the station 2 for the charging
+2024-02-02 21:29:32.828 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:29:32.828 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:29:32.828 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 5 is free.
+2024-02-02 21:29:32.828 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 6 is free.
+2024-02-02 21:29:32.828 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 7 is free.
+2024-02-02 21:29:32.828 [pool-2-thread-2] INFO  ChargingSystem - Vehicle 441 charging started.
+2024-02-02 21:29:33.572 [main] INFO  ChargingSystem - Vehicle 3 is arrived.
+2024-02-02 21:29:33.572 [main] INFO  ChargingSystem - Vehicle 3 is assigned to station with ID:3.
+2024-02-02 21:29:34.489 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:29:34.489 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:29:34.489 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:29:34.489 [pool-2-thread-3] INFO  ChargingSystem - Vehicle 71 charging started.
+2024-02-02 21:29:34.517 [main] INFO  ChargingSystem - Vehicle 480 is arrived.
+2024-02-02 21:29:34.517 [main] INFO  ChargingSystem - Vehicle 480 is assigned to station with ID:1.
+2024-02-02 21:29:35.656 [pool-2-thread-4] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:29:35.656 [pool-2-thread-4] INFO  ChargingSystem - Vehicle 49 charging started.
+2024-02-02 21:29:35.703 [main] INFO  ChargingSystem - Vehicle 51 is arrived.
+2024-02-02 21:29:35.703 [main] INFO  ChargingSystem - Vehicle 51 is assigned to station with ID:1.
+2024-02-02 21:29:35.768 [main] INFO  ChargingSystem - Vehicle 127 is arrived.
+2024-02-02 21:29:35.768 [main] INFO  ChargingSystem - Vehicle 127 is assigned to station with ID:2.
+2024-02-02 21:29:36.208 [pool-2-thread-5] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:29:36.208 [pool-2-thread-5] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:29:36.208 [pool-2-thread-5] INFO  ChargingSystem - Vehicle 398 charging started.
+2024-02-02 21:29:37.480 [main] INFO  ChargingSystem - Vehicle 291 is arrived.
+2024-02-02 21:29:37.480 [main] INFO  ChargingSystem - Vehicle 291 is assigned to station with ID:1.
+2024-02-02 21:29:37.718 [pool-2-thread-6] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:29:37.718 [pool-2-thread-6] INFO  ChargingSystem - Vehicle 284 charging started.
+2024-02-02 21:29:37.895 [pool-2-thread-7] INFO  ChargingSystem - Vehicle 333 charging started.
+2024-02-02 21:29:38.541 [main] INFO  ChargingSystem - Vehicle 400 is arrived.
+2024-02-02 21:29:38.541 [main] INFO  ChargingSystem - Vehicle 400 is assigned to station with ID:1.
+2024-02-02 21:29:39.241 [main] INFO  ChargingSystem - Vehicle 375 is arrived.
+2024-02-02 21:29:39.241 [main] INFO  ChargingSystem - Vehicle 375 is assigned to station with ID:2.
+2024-02-02 21:29:39.874 [main] INFO  ChargingSystem - Vehicle 116 is arrived.
+2024-02-02 21:29:39.874 [main] INFO  ChargingSystem - Vehicle 116 is assigned to station with ID:3.
+2024-02-02 21:29:40.789 [main] INFO  ChargingSystem - Vehicle 155 is arrived.
+2024-02-02 21:29:40.789 [main] INFO  ChargingSystem - Vehicle 155 is assigned to station with ID:4.
+2024-02-02 21:29:42.493 [main] INFO  ChargingSystem - Vehicle 4 is arrived.
+2024-02-02 21:29:42.493 [main] INFO  ChargingSystem - Vehicle 4 is assigned to station with ID:5.
+2024-02-02 21:29:44.057 [main] INFO  ChargingSystem - Vehicle 496 is arrived.
+2024-02-02 21:29:44.057 [main] INFO  ChargingSystem - Vehicle 496 is assigned to station with ID:6.
+2024-02-02 21:29:44.179 [main] INFO  ChargingSystem - Vehicle 260 is arrived.
+2024-02-02 21:29:44.179 [main] INFO  ChargingSystem - Vehicle 260 is assigned to station with ID:7.
+2024-02-02 21:29:46.127 [main] INFO  ChargingSystem - Vehicle 157 is arrived.
+2024-02-02 21:29:46.127 [main] INFO  ChargingSystem - Vehicle 157 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:46.951 [main] INFO  ChargingSystem - Vehicle 46 is arrived.
+2024-02-02 21:29:46.951 [main] INFO  ChargingSystem - Vehicle 46 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:47.216 [main] INFO  ChargingSystem - Vehicle 181 is arrived.
+2024-02-02 21:29:47.216 [main] INFO  ChargingSystem - Vehicle 181 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:47.237 [main] INFO  ChargingSystem - Vehicle 63 is arrived.
+2024-02-02 21:29:47.237 [main] INFO  ChargingSystem - Vehicle 63 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:47.731 [main] INFO  ChargingSystem - Vehicle 26 is arrived.
+2024-02-02 21:29:47.731 [main] INFO  ChargingSystem - Vehicle 26 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:48.950 [main] INFO  ChargingSystem - Vehicle 153 is arrived.
+2024-02-02 21:29:48.950 [main] INFO  ChargingSystem - Vehicle 153 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:49.544 [main] INFO  ChargingSystem - Vehicle 499 is arrived.
+2024-02-02 21:29:49.544 [main] INFO  ChargingSystem - Vehicle 499 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:49.783 [main] INFO  ChargingSystem - Vehicle 227 is arrived.
+2024-02-02 21:29:49.783 [main] INFO  ChargingSystem - Vehicle 227 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:49.879 [main] INFO  ChargingSystem - Vehicle 251 is arrived.
+2024-02-02 21:29:49.879 [main] INFO  ChargingSystem - Vehicle 251 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:51.427 [main] INFO  ChargingSystem - Vehicle 325 is arrived.
+2024-02-02 21:29:51.427 [main] INFO  ChargingSystem - Vehicle 325 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:52.287 [main] INFO  ChargingSystem - Vehicle 355 is arrived.
+2024-02-02 21:29:52.287 [main] INFO  ChargingSystem - Vehicle 355 is getting into queue becuase all stations are occupied.
+2024-02-02 21:29:52.290 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:29:52.290 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 157 is assigned to to the station 1 for the charging
+2024-02-02 21:29:52.290 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:29:52.290 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 46 is assigned to to the station 2 for the charging
+2024-02-02 21:29:52.291 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:29:52.291 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 181 is assigned to to the station 3 for the charging
+2024-02-02 21:29:52.291 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:29:52.291 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 63 is assigned to to the station 4 for the charging
+2024-02-02 21:29:52.291 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 5 is free.
+2024-02-02 21:29:52.291 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 26 is assigned to to the station 5 for the charging
+2024-02-02 21:29:52.292 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 6 is free.
+2024-02-02 21:29:52.292 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 153 is assigned to to the station 6 for the charging
+2024-02-02 21:29:52.292 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 7 is free.
+2024-02-02 21:29:52.292 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 499 is assigned to to the station 7 for the charging
+2024-02-02 21:29:52.292 [pool-2-thread-1] INFO  ChargingSystem - Vehicle 191 charging started.
+2024-02-02 21:29:52.830 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:29:52.831 [pool-2-thread-2] INFO  ChargingSystem - Vehicle id : 227 is assigned to to the station 1 for the charging
+2024-02-02 21:29:52.831 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:29:52.831 [pool-2-thread-2] INFO  ChargingSystem - Vehicle id : 251 is assigned to to the station 2 for the charging
+2024-02-02 21:29:52.832 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:29:52.832 [pool-2-thread-2] INFO  ChargingSystem - Vehicle id : 325 is assigned to to the station 3 for the charging
+2024-02-02 21:29:52.832 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:29:52.832 [pool-2-thread-2] INFO  ChargingSystem - Vehicle id : 355 is assigned to to the station 4 for the charging
+2024-02-02 21:29:52.832 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 5 is free.
+2024-02-02 21:29:52.833 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 6 is free.
+2024-02-02 21:29:52.833 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 7 is free.
+2024-02-02 21:29:52.833 [pool-2-thread-2] INFO  ChargingSystem - Vehicle 77 charging started.
+2024-02-02 21:29:53.225 [main] INFO  ChargingSystem - Vehicle 495 is arrived.
+2024-02-02 21:29:53.225 [main] INFO  ChargingSystem - Vehicle 495 is assigned to station with ID:5.
+2024-02-02 21:29:54.490 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:29:54.490 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:29:54.490 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:29:54.490 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:29:54.491 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 5 is free.
+2024-02-02 21:29:54.491 [pool-2-thread-3] INFO  ChargingSystem - Vehicle 122 charging started.
+2024-02-02 21:29:54.662 [main] INFO  ChargingSystem - Vehicle 418 is arrived.
+2024-02-02 21:29:54.662 [main] INFO  ChargingSystem - Vehicle 418 is assigned to station with ID:1.
+2024-02-02 21:29:55.669 [pool-2-thread-4] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:29:55.669 [pool-2-thread-4] INFO  ChargingSystem - Vehicle 499 charging started.
+2024-02-02 21:29:56.047 [main] INFO  ChargingSystem - Vehicle 126 is arrived.
+2024-02-02 21:29:56.047 [main] INFO  ChargingSystem - Vehicle 126 is assigned to station with ID:1.
+2024-02-02 21:29:56.216 [pool-2-thread-5] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:29:56.216 [pool-2-thread-5] INFO  ChargingSystem - Vehicle 351 charging started.
+2024-02-02 21:29:56.707 [main] INFO  ChargingSystem - Vehicle 475 is arrived.
+2024-02-02 21:29:56.707 [main] INFO  ChargingSystem - Vehicle 475 is assigned to station with ID:1.
+2024-02-02 21:29:57.186 [main] INFO  ChargingSystem - Vehicle 406 is arrived.
+2024-02-02 21:29:57.186 [main] INFO  ChargingSystem - Vehicle 406 is assigned to station with ID:2.
+2024-02-02 21:29:57.218 [main] INFO  ChargingSystem - Vehicle 344 is arrived.
+2024-02-02 21:29:57.218 [main] INFO  ChargingSystem - Vehicle 344 is assigned to station with ID:3.
+2024-02-02 21:29:57.720 [pool-2-thread-6] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:29:57.720 [pool-2-thread-6] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:29:57.720 [pool-2-thread-6] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:29:57.720 [pool-2-thread-6] INFO  ChargingSystem - Vehicle 215 charging started.
+2024-02-02 21:29:57.775 [main] INFO  ChargingSystem - Vehicle 327 is arrived.
+2024-02-02 21:29:57.775 [main] INFO  ChargingSystem - Vehicle 327 is assigned to station with ID:1.
+2024-02-02 21:29:57.895 [pool-2-thread-7] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:29:57.895 [pool-2-thread-7] INFO  ChargingSystem - Vehicle 133 charging started.
+2024-02-02 21:29:59.710 [main] INFO  ChargingSystem - Vehicle 42 is arrived.
+2024-02-02 21:29:59.710 [main] INFO  ChargingSystem - Vehicle 42 is assigned to station with ID:1.
+2024-02-02 21:29:59.869 [main] INFO  ChargingSystem - Vehicle 231 is arrived.
+2024-02-02 21:29:59.869 [main] INFO  ChargingSystem - Vehicle 231 is assigned to station with ID:2.
+2024-02-02 21:30:00.500 [main] INFO  ChargingSystem - Vehicle 186 is arrived.
+2024-02-02 21:30:00.500 [main] INFO  ChargingSystem - Vehicle 186 is assigned to station with ID:3.
+2024-02-02 21:30:02.137 [main] INFO  ChargingSystem - Vehicle 460 is arrived.
+2024-02-02 21:30:02.137 [main] INFO  ChargingSystem - Vehicle 460 is assigned to station with ID:4.
+2024-02-02 21:30:02.511 [main] INFO  ChargingSystem - Vehicle 47 is arrived.
+2024-02-02 21:30:02.511 [main] INFO  ChargingSystem - Vehicle 47 is assigned to station with ID:5.
+2024-02-02 21:30:02.762 [main] INFO  ChargingSystem - Vehicle 323 is arrived.
+2024-02-02 21:30:02.762 [main] INFO  ChargingSystem - Vehicle 323 is assigned to station with ID:6.
+2024-02-02 21:30:04.344 [main] INFO  ChargingSystem - Vehicle 329 is arrived.
+2024-02-02 21:30:04.345 [main] INFO  ChargingSystem - Vehicle 329 is assigned to station with ID:7.
+2024-02-02 21:30:04.348 [main] INFO  ChargingSystem - Vehicle 386 is arrived.
+2024-02-02 21:30:04.348 [main] INFO  ChargingSystem - Vehicle 386 is getting into queue becuase all stations are occupied.
+2024-02-02 21:30:04.989 [main] INFO  ChargingSystem - Vehicle 474 is arrived.
+2024-02-02 21:30:04.989 [main] INFO  ChargingSystem - Vehicle 474 is getting into queue becuase all stations are occupied.
+2024-02-02 21:30:06.561 [main] INFO  ChargingSystem - Vehicle 73 is arrived.
+2024-02-02 21:30:06.561 [main] INFO  ChargingSystem - Vehicle 73 is getting into queue becuase all stations are occupied.
+2024-02-02 21:30:07.758 [main] INFO  ChargingSystem - Vehicle 247 is arrived.
+2024-02-02 21:30:07.758 [main] INFO  ChargingSystem - Vehicle 247 is getting into queue becuase all stations are occupied.
+2024-02-02 21:30:08.330 [main] INFO  ChargingSystem - Vehicle 144 is arrived.
+2024-02-02 21:30:08.330 [main] INFO  ChargingSystem - Vehicle 144 is getting into queue becuase all stations are occupied.
+2024-02-02 21:30:08.548 [main] INFO  ChargingSystem - Vehicle 396 is arrived.
+2024-02-02 21:30:08.548 [main] INFO  ChargingSystem - Vehicle 396 is getting into queue becuase all stations are occupied.
+2024-02-02 21:30:08.807 [main] INFO  ChargingSystem - Vehicle 290 is arrived.
+2024-02-02 21:30:08.807 [main] INFO  ChargingSystem - Vehicle 290 is getting into queue becuase all stations are occupied.
+2024-02-02 21:30:10.763 [main] INFO  ChargingSystem - Vehicle 485 is arrived.
+2024-02-02 21:30:10.763 [main] INFO  ChargingSystem - Vehicle 485 is getting into queue becuase all stations are occupied.
+2024-02-02 21:30:11.537 [main] INFO  ChargingSystem - Vehicle 369 is arrived.
+2024-02-02 21:30:11.540 [main] INFO  ChargingSystem - Vehicle 369 is getting into queue becuase all stations are occupied.
+2024-02-02 21:30:11.762 [main] INFO  ChargingSystem - Vehicle 417 is arrived.
+2024-02-02 21:30:11.762 [main] INFO  ChargingSystem - Vehicle 417 is getting into queue becuase all stations are occupied.
+2024-02-02 21:30:11.885 [main] INFO  ChargingSystem - Vehicle 143 is arrived.
+2024-02-02 21:30:11.885 [main] INFO  ChargingSystem - Vehicle 143 is getting into queue becuase all stations are occupied.
+2024-02-02 21:30:12.292 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:30:12.292 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 386 is assigned to to the station 1 for the charging
+2024-02-02 21:30:12.292 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:30:12.292 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 474 is assigned to to the station 2 for the charging
+2024-02-02 21:30:12.292 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:30:12.293 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 73 is assigned to to the station 3 for the charging
+2024-02-02 21:30:12.293 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:30:12.293 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 247 is assigned to to the station 4 for the charging
+2024-02-02 21:30:12.293 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 5 is free.
+2024-02-02 21:30:12.293 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 144 is assigned to to the station 5 for the charging
+2024-02-02 21:30:12.293 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 6 is free.
+2024-02-02 21:30:12.293 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 396 is assigned to to the station 6 for the charging
+2024-02-02 21:30:12.294 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 7 is free.
+2024-02-02 21:30:12.294 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 290 is assigned to to the station 7 for the charging
+2024-02-02 21:30:12.294 [pool-2-thread-1] INFO  ChargingSystem - Vehicle 429 charging started.
+2024-02-02 21:30:12.834 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:30:12.834 [pool-2-thread-2] INFO  ChargingSystem - Vehicle id : 485 is assigned to to the station 1 for the charging
+2024-02-02 21:30:12.834 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:30:12.834 [pool-2-thread-2] INFO  ChargingSystem - Vehicle id : 369 is assigned to to the station 2 for the charging
+2024-02-02 21:30:12.834 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:30:12.834 [pool-2-thread-2] INFO  ChargingSystem - Vehicle id : 417 is assigned to to the station 3 for the charging
+2024-02-02 21:30:12.835 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:30:12.835 [pool-2-thread-2] INFO  ChargingSystem - Vehicle id : 143 is assigned to to the station 4 for the charging
+2024-02-02 21:30:12.835 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 5 is free.
+2024-02-02 21:30:12.835 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 6 is free.
+2024-02-02 21:30:12.835 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 7 is free.
+2024-02-02 21:30:12.835 [pool-2-thread-2] INFO  ChargingSystem - Vehicle 308 charging started.
+2024-02-02 21:30:13.573 [main] INFO  ChargingSystem - Vehicle 449 is arrived.
+2024-02-02 21:30:13.574 [main] INFO  ChargingSystem - Vehicle 449 is assigned to station with ID:5.
+2024-02-02 21:30:13.777 [main] INFO  ChargingSystem - Vehicle 322 is arrived.
+2024-02-02 21:30:13.777 [main] INFO  ChargingSystem - Vehicle 322 is assigned to station with ID:6.
+2024-02-02 21:30:14.491 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:30:14.491 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:30:14.491 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:30:14.491 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:30:14.492 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 5 is free.
+2024-02-02 21:30:14.492 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 6 is free.
+2024-02-02 21:30:14.492 [pool-2-thread-3] INFO  ChargingSystem - Vehicle 182 charging started.
+2024-02-02 21:30:15.179 [main] INFO  ChargingSystem - Vehicle 345 is arrived.
+2024-02-02 21:30:15.179 [main] INFO  ChargingSystem - Vehicle 345 is assigned to station with ID:1.
+2024-02-02 21:30:15.670 [pool-2-thread-4] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:30:15.670 [pool-2-thread-4] INFO  ChargingSystem - Vehicle 36 charging started.
+2024-02-02 21:30:16.217 [pool-2-thread-5] INFO  ChargingSystem - Vehicle 399 charging started.
+2024-02-02 21:30:16.498 [main] INFO  ChargingSystem - Vehicle 89 is arrived.
+2024-02-02 21:30:16.498 [main] INFO  ChargingSystem - Vehicle 89 is assigned to station with ID:1.
+2024-02-02 21:30:17.525 [main] INFO  ChargingSystem - Vehicle 328 is arrived.
+2024-02-02 21:30:17.525 [main] INFO  ChargingSystem - Vehicle 328 is assigned to station with ID:2.
+2024-02-02 21:30:17.723 [pool-2-thread-6] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:30:17.723 [pool-2-thread-6] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:30:17.723 [pool-2-thread-6] INFO  ChargingSystem - Vehicle 278 charging started.
+2024-02-02 21:30:17.732 [main] INFO  ChargingSystem - Vehicle 367 is arrived.
+2024-02-02 21:30:17.732 [main] INFO  ChargingSystem - Vehicle 367 is assigned to station with ID:1.
+2024-02-02 21:30:17.897 [pool-2-thread-7] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:30:17.897 [pool-2-thread-7] INFO  ChargingSystem - Vehicle 14 charging started.
+2024-02-02 21:30:18.300 [main] INFO  ChargingSystem - Vehicle 205 is arrived.
+2024-02-02 21:30:18.300 [main] INFO  ChargingSystem - Vehicle 205 is assigned to station with ID:1.
+2024-02-02 21:30:18.588 [main] INFO  ChargingSystem - Vehicle 96 is arrived.
+2024-02-02 21:30:18.588 [main] INFO  ChargingSystem - Vehicle 96 is assigned to station with ID:2.
+2024-02-02 21:30:19.382 [main] INFO  ChargingSystem - Vehicle 63 is arrived.
+2024-02-02 21:30:19.382 [main] INFO  ChargingSystem - Vehicle 63 is assigned to station with ID:3.
+2024-02-02 21:30:20.604 [main] INFO  ChargingSystem - Vehicle 122 is arrived.
+2024-02-02 21:30:20.604 [main] INFO  ChargingSystem - Vehicle 122 is assigned to station with ID:4.
+2024-02-02 21:30:21.039 [main] INFO  ChargingSystem - Vehicle 293 is arrived.
+2024-02-02 21:30:21.039 [main] INFO  ChargingSystem - Vehicle 293 is assigned to station with ID:5.
+2024-02-02 21:30:22.166 [main] INFO  ChargingSystem - Vehicle 294 is arrived.
+2024-02-02 21:30:22.166 [main] INFO  ChargingSystem - Vehicle 294 is assigned to station with ID:6.
+2024-02-02 21:30:23.010 [main] INFO  ChargingSystem - Vehicle 79 is arrived.
+2024-02-02 21:30:23.010 [main] INFO  ChargingSystem - Vehicle 79 is assigned to station with ID:7.
+2024-02-02 21:30:24.875 [main] INFO  ChargingSystem - Vehicle 209 is arrived.
+2024-02-02 21:30:24.875 [main] INFO  ChargingSystem - Vehicle 209 is getting into queue becuase all stations are occupied.
+2024-02-02 21:30:26.563 [main] INFO  ChargingSystem - Vehicle 405 is arrived.
+2024-02-02 21:30:26.563 [main] INFO  ChargingSystem - Vehicle 405 is getting into queue becuase all stations are occupied.
+2024-02-02 21:30:28.429 [main] INFO  ChargingSystem - Vehicle 307 is arrived.
+2024-02-02 21:30:28.429 [main] INFO  ChargingSystem - Vehicle 307 is getting into queue becuase all stations are occupied.
+2024-02-02 21:30:28.660 [main] INFO  ChargingSystem - Vehicle 14 is arrived.
+2024-02-02 21:30:28.660 [main] INFO  ChargingSystem - Vehicle 14 is getting into queue becuase all stations are occupied.
+2024-02-02 21:30:30.524 [main] INFO  ChargingSystem - Vehicle 147 is arrived.
+2024-02-02 21:30:30.524 [main] INFO  ChargingSystem - Vehicle 147 is getting into queue becuase all stations are occupied.
+2024-02-02 21:30:31.825 [main] INFO  ChargingSystem - Vehicle 450 is arrived.
+2024-02-02 21:30:31.825 [main] INFO  ChargingSystem - Vehicle 450 is getting into queue becuase all stations are occupied.
+2024-02-02 21:30:32.297 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:30:32.297 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 209 is assigned to to the station 1 for the charging
+2024-02-02 21:30:32.297 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:30:32.297 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 405 is assigned to to the station 2 for the charging
+2024-02-02 21:30:32.297 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:30:32.298 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 307 is assigned to to the station 3 for the charging
+2024-02-02 21:30:32.298 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:30:32.298 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 14 is assigned to to the station 4 for the charging
+2024-02-02 21:30:32.298 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 5 is free.
+2024-02-02 21:30:32.298 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 147 is assigned to to the station 5 for the charging
+2024-02-02 21:30:32.298 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 6 is free.
+2024-02-02 21:30:32.298 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 450 is assigned to to the station 6 for the charging
+2024-02-02 21:30:32.298 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 7 is free.
+2024-02-02 21:30:32.299 [pool-2-thread-1] INFO  ChargingSystem - Vehicle 46 charging started.
+2024-02-02 21:30:32.837 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:30:32.837 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:30:32.837 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:30:32.837 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:30:32.837 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 5 is free.
+2024-02-02 21:30:32.837 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 6 is free.
+2024-02-02 21:30:32.838 [pool-2-thread-2] INFO  ChargingSystem - Vehicle 467 charging started.
+2024-02-02 21:30:33.080 [main] INFO  ChargingSystem - Vehicle 92 is arrived.
+2024-02-02 21:30:33.080 [main] INFO  ChargingSystem - Vehicle 92 is assigned to station with ID:1.
+2024-02-02 21:30:34.401 [main] INFO  ChargingSystem - Vehicle 140 is arrived.
+2024-02-02 21:30:34.401 [main] INFO  ChargingSystem - Vehicle 140 is assigned to station with ID:2.
+2024-02-02 21:30:34.494 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:30:34.494 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:30:34.494 [pool-2-thread-3] INFO  ChargingSystem - Vehicle 226 charging started.
+2024-02-02 21:30:35.671 [pool-2-thread-4] INFO  ChargingSystem - Vehicle 375 charging started.
+2024-02-02 21:30:36.218 [pool-2-thread-5] INFO  ChargingSystem - Vehicle 399 charging started.
+2024-02-02 21:30:36.328 [main] INFO  ChargingSystem - Vehicle 59 is arrived.
+2024-02-02 21:30:36.328 [main] INFO  ChargingSystem - Vehicle 59 is assigned to station with ID:1.
+2024-02-02 21:30:37.725 [pool-2-thread-6] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:30:37.725 [pool-2-thread-6] INFO  ChargingSystem - Vehicle 7 charging started.
+2024-02-02 21:30:37.736 [main] INFO  ChargingSystem - Vehicle 152 is arrived.
+2024-02-02 21:30:37.736 [main] INFO  ChargingSystem - Vehicle 152 is assigned to station with ID:1.
+2024-02-02 21:30:37.903 [pool-2-thread-7] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:30:37.903 [pool-2-thread-7] INFO  ChargingSystem - Vehicle 439 charging started.
+2024-02-02 21:30:39.324 [main] INFO  ChargingSystem - Vehicle 309 is arrived.
+2024-02-02 21:30:39.324 [main] INFO  ChargingSystem - Vehicle 309 is assigned to station with ID:1.
+2024-02-02 21:30:41.200 [main] INFO  ChargingSystem - Vehicle 309 is arrived.
+2024-02-02 21:30:41.200 [main] INFO  ChargingSystem - Vehicle 309 is assigned to station with ID:2.
+2024-02-02 21:30:42.490 [main] INFO  ChargingSystem - Vehicle 90 is arrived.
+2024-02-02 21:30:42.490 [main] INFO  ChargingSystem - Vehicle 90 is assigned to station with ID:3.
+2024-02-02 21:30:44.130 [main] INFO  ChargingSystem - Vehicle 287 is arrived.
+2024-02-02 21:30:44.130 [main] INFO  ChargingSystem - Vehicle 287 is assigned to station with ID:4.
+2024-02-02 21:30:44.343 [main] INFO  ChargingSystem - Vehicle 42 is arrived.
+2024-02-02 21:30:44.343 [main] INFO  ChargingSystem - Vehicle 42 is assigned to station with ID:5.
+2024-02-02 21:30:45.523 [main] INFO  ChargingSystem - Vehicle 415 is arrived.
+2024-02-02 21:30:45.523 [main] INFO  ChargingSystem - Vehicle 415 is assigned to station with ID:6.
+2024-02-02 21:30:46.679 [main] INFO  ChargingSystem - Vehicle 267 is arrived.
+2024-02-02 21:30:46.679 [main] INFO  ChargingSystem - Vehicle 267 is assigned to station with ID:7.
+2024-02-02 21:30:48.618 [main] INFO  ChargingSystem - Vehicle 444 is arrived.
+2024-02-02 21:30:48.618 [main] INFO  ChargingSystem - Vehicle 444 is getting into queue becuase all stations are occupied.
+2024-02-02 21:30:48.684 [main] INFO  ChargingSystem - Vehicle 67 is arrived.
+2024-02-02 21:30:48.684 [main] INFO  ChargingSystem - Vehicle 67 is getting into queue becuase all stations are occupied.
+2024-02-02 21:30:49.491 [main] INFO  ChargingSystem - Vehicle 2 is arrived.
+2024-02-02 21:30:49.491 [main] INFO  ChargingSystem - Vehicle 2 is getting into queue becuase all stations are occupied.
+2024-02-02 21:30:50.886 [main] INFO  ChargingSystem - Vehicle 454 is arrived.
+2024-02-02 21:30:50.886 [main] INFO  ChargingSystem - Vehicle 454 is getting into queue becuase all stations are occupied.
+2024-02-02 21:30:52.299 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:30:52.299 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 444 is assigned to to the station 1 for the charging
+2024-02-02 21:30:52.299 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:30:52.299 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 67 is assigned to to the station 2 for the charging
+2024-02-02 21:30:52.300 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:30:52.300 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 2 is assigned to to the station 3 for the charging
+2024-02-02 21:30:52.300 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:30:52.300 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 454 is assigned to to the station 4 for the charging
+2024-02-02 21:30:52.300 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 5 is free.
+2024-02-02 21:30:52.300 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 6 is free.
+2024-02-02 21:30:52.300 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 7 is free.
+2024-02-02 21:30:52.301 [pool-2-thread-1] INFO  ChargingSystem - Vehicle 335 charging started.
+2024-02-02 21:30:52.749 [main] INFO  ChargingSystem - Vehicle 58 is arrived.
+2024-02-02 21:30:52.749 [main] INFO  ChargingSystem - Vehicle 58 is assigned to station with ID:5.
+2024-02-02 21:30:52.838 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:30:52.838 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:30:52.838 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:30:52.838 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:30:52.838 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 5 is free.
+2024-02-02 21:30:52.838 [pool-2-thread-2] INFO  ChargingSystem - Vehicle 252 charging started.
+2024-02-02 21:30:52.862 [main] INFO  ChargingSystem - Vehicle 205 is arrived.
+2024-02-02 21:30:52.862 [main] INFO  ChargingSystem - Vehicle 205 is assigned to station with ID:1.
+2024-02-02 21:30:53.418 [main] INFO  ChargingSystem - Vehicle 34 is arrived.
+2024-02-02 21:30:53.418 [main] INFO  ChargingSystem - Vehicle 34 is assigned to station with ID:2.
+2024-02-02 21:30:53.846 [main] INFO  ChargingSystem - Vehicle 67 is arrived.
+2024-02-02 21:30:53.846 [main] INFO  ChargingSystem - Vehicle 67 is assigned to station with ID:3.
+2024-02-02 21:30:54.168 [main] INFO  ChargingSystem - Vehicle 351 is arrived.
+2024-02-02 21:30:54.168 [main] INFO  ChargingSystem - Vehicle 351 is assigned to station with ID:4.
+2024-02-02 21:30:54.497 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:30:54.497 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:30:54.497 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:30:54.497 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:30:54.497 [pool-2-thread-3] INFO  ChargingSystem - Vehicle 149 charging started.
+2024-02-02 21:30:55.672 [pool-2-thread-4] INFO  ChargingSystem - Vehicle 145 charging started.
+2024-02-02 21:30:55.687 [main] INFO  ChargingSystem - Vehicle 49 is arrived.
+2024-02-02 21:30:55.687 [main] INFO  ChargingSystem - Vehicle 49 is assigned to station with ID:1.
+2024-02-02 21:30:56.219 [pool-2-thread-5] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:30:56.219 [pool-2-thread-5] INFO  ChargingSystem - Vehicle 213 charging started.
+2024-02-02 21:30:56.552 [main] INFO  ChargingSystem - Vehicle 157 is arrived.
+2024-02-02 21:30:56.552 [main] INFO  ChargingSystem - Vehicle 157 is assigned to station with ID:1.
+2024-02-02 21:30:57.556 [main] INFO  ChargingSystem - Vehicle 118 is arrived.
+2024-02-02 21:30:57.556 [main] INFO  ChargingSystem - Vehicle 118 is assigned to station with ID:2.
+2024-02-02 21:30:57.674 [main] INFO  ChargingSystem - Vehicle 62 is arrived.
+2024-02-02 21:30:57.674 [main] INFO  ChargingSystem - Vehicle 62 is assigned to station with ID:3.
+2024-02-02 21:30:57.727 [pool-2-thread-6] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:30:57.727 [pool-2-thread-6] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:30:57.727 [pool-2-thread-6] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:30:57.727 [pool-2-thread-6] INFO  ChargingSystem - Vehicle 23 charging started.
+2024-02-02 21:30:57.904 [pool-2-thread-7] INFO  ChargingSystem - Vehicle 220 charging started.
+2024-02-02 21:30:58.389 [main] INFO  ChargingSystem - Vehicle 288 is arrived.
+2024-02-02 21:30:58.389 [main] INFO  ChargingSystem - Vehicle 288 is assigned to station with ID:1.
+2024-02-02 21:30:59.374 [main] INFO  ChargingSystem - Vehicle 291 is arrived.
+2024-02-02 21:30:59.374 [main] INFO  ChargingSystem - Vehicle 291 is assigned to station with ID:2.
+2024-02-02 21:31:01.218 [main] INFO  ChargingSystem - Vehicle 478 is arrived.
+2024-02-02 21:31:01.218 [main] INFO  ChargingSystem - Vehicle 478 is assigned to station with ID:3.
+2024-02-02 21:31:02.856 [main] INFO  ChargingSystem - Vehicle 268 is arrived.
+2024-02-02 21:31:02.856 [main] INFO  ChargingSystem - Vehicle 268 is assigned to station with ID:4.
+2024-02-02 21:31:04.507 [main] INFO  ChargingSystem - Vehicle 291 is arrived.
+2024-02-02 21:31:04.507 [main] INFO  ChargingSystem - Vehicle 291 is assigned to station with ID:5.
+2024-02-02 21:31:06.261 [main] INFO  ChargingSystem - Vehicle 287 is arrived.
+2024-02-02 21:31:06.261 [main] INFO  ChargingSystem - Vehicle 287 is assigned to station with ID:6.
+2024-02-02 21:31:07.475 [main] INFO  ChargingSystem - Vehicle 376 is arrived.
+2024-02-02 21:31:07.475 [main] INFO  ChargingSystem - Vehicle 376 is assigned to station with ID:7.
+2024-02-02 21:31:09.292 [main] INFO  ChargingSystem - Vehicle 121 is arrived.
+2024-02-02 21:31:09.292 [main] INFO  ChargingSystem - Vehicle 121 is getting into queue becuase all stations are occupied.
+2024-02-02 21:31:11.123 [main] INFO  ChargingSystem - Vehicle 82 is arrived.
+2024-02-02 21:31:11.123 [main] INFO  ChargingSystem - Vehicle 82 is getting into queue becuase all stations are occupied.
+2024-02-02 21:31:11.532 [main] INFO  ChargingSystem - Vehicle 265 is arrived.
+2024-02-02 21:31:11.532 [main] INFO  ChargingSystem - Vehicle 265 is getting into queue becuase all stations are occupied.
+2024-02-02 21:31:38.453 [main] INFO  ChargingSystem - Vehicle 4 is arrived.
+2024-02-02 21:31:38.454 [main] INFO  ChargingSystem - Vehicle 4 is assigned to station with ID:1.
+2024-02-02 21:31:38.454 [pool-2-thread-1] INFO  ChargingSystem - Vehicle 4 charging started.
+2024-02-02 21:31:38.755 [main] INFO  ChargingSystem - Vehicle 433 is arrived.
+2024-02-02 21:31:38.755 [main] INFO  ChargingSystem - Vehicle 433 is assigned to station with ID:2.
+2024-02-02 21:31:38.756 [pool-2-thread-2] INFO  ChargingSystem - Vehicle 433 charging started.
+2024-02-02 21:31:40.225 [main] INFO  ChargingSystem - Vehicle 109 is arrived.
+2024-02-02 21:31:40.225 [main] INFO  ChargingSystem - Vehicle 109 is assigned to station with ID:3.
+2024-02-02 21:31:40.226 [pool-2-thread-3] INFO  ChargingSystem - Vehicle 109 charging started.
+2024-02-02 21:31:40.355 [main] INFO  ChargingSystem - Vehicle 259 is arrived.
+2024-02-02 21:31:40.355 [main] INFO  ChargingSystem - Vehicle 259 is assigned to station with ID:4.
+2024-02-02 21:31:40.355 [pool-2-thread-4] INFO  ChargingSystem - Vehicle 259 charging started.
+2024-02-02 21:31:41.995 [main] INFO  ChargingSystem - Vehicle 425 is arrived.
+2024-02-02 21:31:41.995 [main] INFO  ChargingSystem - Vehicle 425 is assigned to station with ID:5.
+2024-02-02 21:31:41.996 [pool-2-thread-5] INFO  ChargingSystem - Vehicle 425 charging started.
+2024-02-02 21:31:42.669 [main] INFO  ChargingSystem - Vehicle 496 is arrived.
+2024-02-02 21:31:42.669 [main] INFO  ChargingSystem - Vehicle 496 is assigned to station with ID:6.
+2024-02-02 21:31:42.670 [pool-2-thread-6] INFO  ChargingSystem - Vehicle 496 charging started.
+2024-02-02 21:31:43.657 [main] INFO  ChargingSystem - Vehicle 279 is arrived.
+2024-02-02 21:31:43.657 [main] INFO  ChargingSystem - Vehicle 279 is assigned to station with ID:7.
+2024-02-02 21:31:43.657 [pool-2-thread-7] INFO  ChargingSystem - Vehicle 279 charging started.
+2024-02-02 21:31:44.584 [main] INFO  ChargingSystem - Vehicle 222 is arrived.
+2024-02-02 21:31:44.584 [main] INFO  ChargingSystem - Vehicle 222 is getting into queue becuase all stations are occupied.
+2024-02-02 21:31:46.108 [main] INFO  ChargingSystem - Vehicle 498 is arrived.
+2024-02-02 21:31:46.108 [main] INFO  ChargingSystem - Vehicle 498 is getting into queue becuase all stations are occupied.
+2024-02-02 21:31:46.131 [main] INFO  ChargingSystem - Vehicle 107 is arrived.
+2024-02-02 21:31:46.131 [main] INFO  ChargingSystem - Vehicle 107 is getting into queue becuase all stations are occupied.
+2024-02-02 21:31:47.435 [main] INFO  ChargingSystem - Vehicle 348 is arrived.
+2024-02-02 21:31:47.435 [main] INFO  ChargingSystem - Vehicle 348 is getting into queue becuase all stations are occupied.
+2024-02-02 21:31:49.029 [main] INFO  ChargingSystem - Vehicle 228 is arrived.
+2024-02-02 21:31:49.029 [main] INFO  ChargingSystem - Vehicle 228 is getting into queue becuase all stations are occupied.
+2024-02-02 21:31:49.298 [main] INFO  ChargingSystem - Vehicle 228 is arrived.
+2024-02-02 21:31:49.298 [main] INFO  ChargingSystem - Vehicle 228 is getting into queue becuase all stations are occupied.
+2024-02-02 21:31:51.142 [main] INFO  ChargingSystem - Vehicle 445 is arrived.
+2024-02-02 21:31:51.142 [main] INFO  ChargingSystem - Vehicle 445 is getting into queue becuase all stations are occupied.
+2024-02-02 21:31:51.715 [main] INFO  ChargingSystem - Vehicle 134 is arrived.
+2024-02-02 21:31:51.715 [main] INFO  ChargingSystem - Vehicle 134 is getting into queue becuase all stations are occupied.
+2024-02-02 21:31:53.200 [main] INFO  ChargingSystem - Vehicle 296 is arrived.
+2024-02-02 21:31:53.200 [main] INFO  ChargingSystem - Vehicle 296 is getting into queue becuase all stations are occupied.
+2024-02-02 21:31:54.207 [main] INFO  ChargingSystem - Vehicle 310 is arrived.
+2024-02-02 21:31:54.207 [main] INFO  ChargingSystem - Vehicle 310 is getting into queue becuase all stations are occupied.
+2024-02-02 21:31:55.205 [main] INFO  ChargingSystem - Vehicle 178 is arrived.
+2024-02-02 21:31:55.205 [main] INFO  ChargingSystem - Vehicle 178 is getting into queue becuase all stations are occupied.
+2024-02-02 21:31:55.521 [main] INFO  ChargingSystem - Vehicle 101 is arrived.
+2024-02-02 21:31:55.521 [main] INFO  ChargingSystem - Vehicle 101 is getting into queue becuase all stations are occupied.
+2024-02-02 21:31:55.521 [main] WARN  ChargingSystem - Vehicle 222 waited for more than 5 seconds and has left the queue.
+2024-02-02 21:31:56.747 [main] INFO  ChargingSystem - Vehicle 101 is arrived.
+2024-02-02 21:31:56.747 [main] INFO  ChargingSystem - Vehicle 101 is getting into queue becuase all stations are occupied.
+2024-02-02 21:31:57.473 [main] INFO  ChargingSystem - Vehicle 298 is arrived.
+2024-02-02 21:31:57.473 [main] INFO  ChargingSystem - Vehicle 298 is getting into queue becuase all stations are occupied.
+2024-02-02 21:31:57.473 [main] WARN  ChargingSystem - Vehicle 498 waited for more than 5 seconds and has left the queue.
+2024-02-02 21:31:57.857 [main] INFO  ChargingSystem - Vehicle 112 is arrived.
+2024-02-02 21:31:57.857 [main] INFO  ChargingSystem - Vehicle 112 is getting into queue becuase all stations are occupied.
+2024-02-02 21:31:57.857 [main] WARN  ChargingSystem - Vehicle 107 waited for more than 5 seconds and has left the queue.
+2024-02-02 21:31:57.857 [main] WARN  ChargingSystem - Vehicle 348 waited for more than 5 seconds and has left the queue.
+2024-02-02 21:31:58.467 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:31:58.467 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 228 is assigned to to the station 1 for the charging
+2024-02-02 21:31:58.468 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:31:58.468 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 228 is assigned to to the station 2 for the charging
+2024-02-02 21:31:58.468 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:31:58.469 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 445 is assigned to to the station 3 for the charging
+2024-02-02 21:31:58.469 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:31:58.469 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 134 is assigned to to the station 4 for the charging
+2024-02-02 21:31:58.469 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 5 is free.
+2024-02-02 21:31:58.470 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 296 is assigned to to the station 5 for the charging
+2024-02-02 21:31:58.470 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 6 is free.
+2024-02-02 21:31:58.470 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 310 is assigned to to the station 6 for the charging
+2024-02-02 21:31:58.471 [pool-2-thread-1] INFO  ChargingSystem - Station ID: 7 is free.
+2024-02-02 21:31:58.471 [pool-2-thread-1] INFO  ChargingSystem - Vehicle id : 178 is assigned to to the station 7 for the charging
+2024-02-02 21:31:58.471 [pool-2-thread-1] INFO  ChargingSystem - Vehicle 228 charging started.
+2024-02-02 21:31:58.758 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:31:58.758 [pool-2-thread-2] INFO  ChargingSystem - Vehicle id : 101 is assigned to to the station 1 for the charging
+2024-02-02 21:31:58.758 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:31:58.758 [pool-2-thread-2] INFO  ChargingSystem - Vehicle id : 101 is assigned to to the station 2 for the charging
+2024-02-02 21:31:58.759 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:31:58.759 [pool-2-thread-2] INFO  ChargingSystem - Vehicle id : 298 is assigned to to the station 3 for the charging
+2024-02-02 21:31:58.759 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:31:58.759 [pool-2-thread-2] INFO  ChargingSystem - Vehicle id : 112 is assigned to to the station 4 for the charging
+2024-02-02 21:31:58.759 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 5 is free.
+2024-02-02 21:31:58.760 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 6 is free.
+2024-02-02 21:31:58.760 [pool-2-thread-2] INFO  ChargingSystem - Station ID: 7 is free.
+2024-02-02 21:31:58.760 [pool-2-thread-2] INFO  ChargingSystem - Vehicle 228 charging started.
+2024-02-02 21:31:59.297 [main] INFO  ChargingSystem - Vehicle 121 is arrived.
+2024-02-02 21:31:59.297 [main] INFO  ChargingSystem - Vehicle 121 is assigned to station with ID:5.
+2024-02-02 21:32:00.229 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:32:00.229 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:32:00.229 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 3 is free.
+2024-02-02 21:32:00.230 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 4 is free.
+2024-02-02 21:32:00.230 [pool-2-thread-3] INFO  ChargingSystem - Station ID: 5 is free.
+2024-02-02 21:32:00.230 [pool-2-thread-3] INFO  ChargingSystem - Vehicle 445 charging started.
+2024-02-02 21:32:00.358 [pool-2-thread-4] INFO  ChargingSystem - Vehicle 134 charging started.
+2024-02-02 21:32:00.955 [main] INFO  ChargingSystem - Vehicle 284 is arrived.
+2024-02-02 21:32:00.955 [main] INFO  ChargingSystem - Vehicle 284 is assigned to station with ID:1.
+2024-02-02 21:32:01.595 [main] INFO  ChargingSystem - Vehicle 15 is arrived.
+2024-02-02 21:32:01.595 [main] INFO  ChargingSystem - Vehicle 15 is assigned to station with ID:2.
+2024-02-02 21:32:01.999 [pool-2-thread-5] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:32:01.999 [pool-2-thread-5] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:32:01.999 [pool-2-thread-5] INFO  ChargingSystem - Vehicle 296 charging started.
+2024-02-02 21:32:02.009 [main] INFO  ChargingSystem - Vehicle 53 is arrived.
+2024-02-02 21:32:02.010 [main] INFO  ChargingSystem - Vehicle 53 is assigned to station with ID:1.
+2024-02-02 21:32:02.127 [main] INFO  ChargingSystem - Vehicle 473 is arrived.
+2024-02-02 21:32:02.127 [main] INFO  ChargingSystem - Vehicle 473 is assigned to station with ID:2.
+2024-02-02 21:32:02.672 [pool-2-thread-6] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:32:02.672 [pool-2-thread-6] INFO  ChargingSystem - Station ID: 2 is free.
+2024-02-02 21:32:02.672 [pool-2-thread-6] INFO  ChargingSystem - Vehicle 310 charging started.
+2024-02-02 21:32:02.916 [main] INFO  ChargingSystem - Vehicle 213 is arrived.
+2024-02-02 21:32:02.916 [main] INFO  ChargingSystem - Vehicle 213 is assigned to station with ID:1.
+2024-02-02 21:32:03.658 [pool-2-thread-7] INFO  ChargingSystem - Station ID: 1 is free.
+2024-02-02 21:32:03.658 [pool-2-thread-7] INFO  ChargingSystem - Vehicle 178 charging started.
+2024-02-02 21:32:04.512 [main] INFO  ChargingSystem - Vehicle 498 is arrived.
+2024-02-02 21:32:04.512 [main] INFO  ChargingSystem - Vehicle 498 is assigned to station with ID:1.
+2024-02-02 21:32:06.418 [main] INFO  ChargingSystem - Vehicle 477 is arrived.
+2024-02-02 21:32:06.418 [main] INFO  ChargingSystem - Vehicle 477 is assigned to station with ID:2.
+2024-02-02 21:32:08.050 [main] INFO  ChargingSystem - Vehicle 7 is arrived.
+2024-02-02 21:32:08.050 [main] INFO  ChargingSystem - Vehicle 7 is assigned to station with ID:3.
+2024-02-02 21:32:09.148 [main] INFO  ChargingSystem - Vehicle 39 is arrived.
+2024-02-02 21:32:09.148 [main] INFO  ChargingSystem - Vehicle 39 is assigned to station with ID:4.
+2024-02-02 21:32:10.956 [main] INFO  ChargingSystem - Vehicle 54 is arrived.
+2024-02-02 21:32:10.956 [main] INFO  ChargingSystem - Vehicle 54 is assigned to station with ID:5.
+2024-02-02 21:32:12.587 [main] INFO  ChargingSystem - Vehicle 235 is arrived.
+2024-02-02 21:32:12.587 [main] INFO  ChargingSystem - Vehicle 235 is assigned to station with ID:6.
+2024-02-02 21:32:12.732 [main] INFO  ChargingSystem - Vehicle 285 is arrived.
+2024-02-02 21:32:12.733 [main] INFO  ChargingSystem - Vehicle 285 is assigned to station with ID:7.
+2024-02-02 21:32:13.267 [main] INFO  ChargingSystem - Vehicle 446 is arrived.
+2024-02-02 21:32:13.267 [main] INFO  ChargingSystem - Vehicle 446 is getting into queue becuase all stations are occupied.
+2024-02-02 21:32:15.028 [main] INFO  ChargingSystem - Vehicle 213 is arrived.
+2024-02-02 21:32:15.028 [main] INFO  ChargingSystem - Vehicle 213 is getting into queue becuase all stations are occupied.
+2024-02-02 21:32:17.011 [main] INFO  ChargingSystem - Vehicle 248 is arrived.
+2024-02-02 21:32:17.011 [main] INFO  ChargingSystem - Vehicle 248 is getting into queue becuase all stations are occupied.
+2024-02-02 21:32:17.701 [main] INFO  ChargingSystem - Vehicle 335 is arrived.
+2024-02-02 21:32:17.701 [main] INFO  ChargingSystem - Vehicle 335 is getting into queue becuase all stations are occupied.

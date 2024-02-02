@@ -1,0 +1,67 @@
+20240202 21:28:10.763 [pool-3-thread-1] INFO  chargingStation3 - Due to Sunny weather, Energy Source set at Station ID: 3 is SOLAR
+20240202 21:28:14.478 [main] INFO  chargingStation3 - Vehicle 366 is assigned to station with ID:3.
+20240202 21:28:22.763 [pool-3-thread-1] INFO  chargingStation3 - Due to Windy weather, Energy Source set at Station ID: 3 is WIND
+20240202 21:28:32.275 [pool-2-thread-1] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:28:32.275 [pool-2-thread-1] INFO  chargingStation3 - Vehicle id : 356 is assigned to to the station 3 for the charging
+20240202 21:28:32.810 [pool-2-thread-2] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:28:32.811 [pool-2-thread-2] INFO  chargingStation3 - Vehicle id : 176 is assigned to to the station 3 for the charging
+20240202 21:28:34.483 [pool-2-thread-3] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:28:34.538 [main] INFO  chargingStation3 - Vehicle 396 is assigned to station with ID:3.
+20240202 21:28:34.765 [pool-3-thread-1] INFO  chargingStation3 - Due to Sunny weather, Energy Source set at Station ID: 3 is SOLAR
+20240202 21:28:35.649 [pool-2-thread-4] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:28:40.187 [main] INFO  chargingStation3 - Vehicle 441 is assigned to station with ID:3.
+20240202 21:28:46.764 [pool-3-thread-1] INFO  chargingStation3 - Due to Sunny weather, Energy Source set at Station ID: 3 is SOLAR
+20240202 21:28:52.279 [pool-2-thread-1] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:28:52.279 [pool-2-thread-1] INFO  chargingStation3 - Vehicle id : 77 is assigned to to the station 3 for the charging
+20240202 21:28:52.814 [pool-2-thread-2] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:28:52.814 [pool-2-thread-2] INFO  chargingStation3 - Vehicle id : 308 is assigned to to the station 3 for the charging
+20240202 21:28:54.486 [pool-2-thread-3] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:28:58.763 [pool-3-thread-1] INFO  chargingStation3 - Due to Windy weather, Energy Source set at Station ID: 3 is WIND
+20240202 21:29:00.220 [main] INFO  chargingStation3 - Vehicle 399 is assigned to station with ID:3.
+20240202 21:29:10.764 [pool-3-thread-1] INFO  chargingStation3 - Due to Sunny weather, Energy Source set at Station ID: 3 is SOLAR
+20240202 21:29:12.284 [pool-2-thread-1] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:29:12.285 [pool-2-thread-1] INFO  chargingStation3 - Vehicle id : 213 is assigned to to the station 3 for the charging
+20240202 21:29:12.826 [pool-2-thread-2] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:29:19.722 [main] INFO  chargingStation3 - Vehicle 253 is assigned to station with ID:3.
+20240202 21:29:22.764 [pool-3-thread-1] INFO  chargingStation3 - Due to Sunny weather, Energy Source set at Station ID: 3 is SOLAR
+20240202 21:29:32.287 [pool-2-thread-1] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:29:32.287 [pool-2-thread-1] INFO  chargingStation3 - Vehicle id : 231 is assigned to to the station 3 for the charging
+20240202 21:29:32.827 [pool-2-thread-2] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:29:33.572 [main] INFO  chargingStation3 - Vehicle 3 is assigned to station with ID:3.
+20240202 21:29:34.489 [pool-2-thread-3] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:29:34.763 [pool-3-thread-1] INFO  chargingStation3 - Due to Windy weather, Energy Source set at Station ID: 3 is WIND
+20240202 21:29:39.874 [main] INFO  chargingStation3 - Vehicle 116 is assigned to station with ID:3.
+20240202 21:29:46.766 [pool-3-thread-1] INFO  chargingStation3 - Due to Rainy weather, Energy Source set at Station ID: 3 is HYDROELECTRIC
+20240202 21:29:52.291 [pool-2-thread-1] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:29:52.291 [pool-2-thread-1] INFO  chargingStation3 - Vehicle id : 181 is assigned to to the station 3 for the charging
+20240202 21:29:52.832 [pool-2-thread-2] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:29:52.832 [pool-2-thread-2] INFO  chargingStation3 - Vehicle id : 325 is assigned to to the station 3 for the charging
+20240202 21:29:54.490 [pool-2-thread-3] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:29:57.218 [main] INFO  chargingStation3 - Vehicle 344 is assigned to station with ID:3.
+20240202 21:29:57.720 [pool-2-thread-6] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:29:58.769 [pool-3-thread-1] INFO  chargingStation3 - Due to Rainy weather, Energy Source set at Station ID: 3 is HYDROELECTRIC
+20240202 21:30:00.500 [main] INFO  chargingStation3 - Vehicle 186 is assigned to station with ID:3.
+20240202 21:30:10.763 [pool-3-thread-1] INFO  chargingStation3 - Due to Sunny weather, Energy Source set at Station ID: 3 is SOLAR
+20240202 21:30:12.292 [pool-2-thread-1] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:30:12.293 [pool-2-thread-1] INFO  chargingStation3 - Vehicle id : 73 is assigned to to the station 3 for the charging
+20240202 21:30:12.834 [pool-2-thread-2] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:30:12.834 [pool-2-thread-2] INFO  chargingStation3 - Vehicle id : 417 is assigned to to the station 3 for the charging
+20240202 21:30:14.491 [pool-2-thread-3] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:30:19.382 [main] INFO  chargingStation3 - Vehicle 63 is assigned to station with ID:3.
+20240202 21:30:22.765 [pool-3-thread-1] INFO  chargingStation3 - Due to Windy weather, Energy Source set at Station ID: 3 is WIND
+20240202 21:30:32.297 [pool-2-thread-1] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:30:32.298 [pool-2-thread-1] INFO  chargingStation3 - Vehicle id : 307 is assigned to to the station 3 for the charging
+20240202 21:30:32.837 [pool-2-thread-2] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:30:34.764 [pool-3-thread-1] INFO  chargingStation3 - Due to Windy weather, Energy Source set at Station ID: 3 is WIND
+20240202 21:30:42.490 [main] INFO  chargingStation3 - Vehicle 90 is assigned to station with ID:3.
+20240202 21:30:46.764 [pool-3-thread-1] INFO  chargingStation3 - Due to Windy weather, Energy Source set at Station ID: 3 is WIND
+20240202 21:30:52.300 [pool-2-thread-1] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:30:52.300 [pool-2-thread-1] INFO  chargingStation3 - Vehicle id : 2 is assigned to to the station 3 for the charging
+20240202 21:30:52.838 [pool-2-thread-2] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:30:53.846 [main] INFO  chargingStation3 - Vehicle 67 is assigned to station with ID:3.
+20240202 21:30:54.497 [pool-2-thread-3] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:30:57.674 [main] INFO  chargingStation3 - Vehicle 62 is assigned to station with ID:3.
+20240202 21:30:57.727 [pool-2-thread-6] INFO  chargingStation3 - Station ID: 3 is free.
+20240202 21:30:58.764 [pool-3-thread-1] INFO  chargingStation3 - Due to Rainy weather, Energy Source set at Station ID: 3 is HYDROELECTRIC
+20240202 21:31:01.218 [main] INFO  chargingStation3 - Vehicle 478 is assigned to station with ID:3.
+20240202 21:31:10.763 [pool-3-thread-1] INFO  chargingStation3 - Due to Rainy weather, Energy Source set at Station ID: 3 is HYDROELECTRIC

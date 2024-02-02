@@ -1,0 +1,8 @@
+20240202 21:31:37.208 [pool-3-thread-1] INFO  chargingStation7 - Due to Rainy weather, Energy Source set at Station ID: 7 is HYDROELECTRIC
+20240202 21:31:43.657 [main] INFO  chargingStation7 - Vehicle 279 is assigned to station with ID:7.
+20240202 21:31:51.215 [pool-3-thread-1] INFO  chargingStation7 - Due to Rainy weather, Energy Source set at Station ID: 7 is HYDROELECTRIC
+20240202 21:31:58.471 [pool-2-thread-1] INFO  chargingStation7 - Station ID: 7 is free.
+20240202 21:31:58.471 [pool-2-thread-1] INFO  chargingStation7 - Vehicle id : 178 is assigned to to the station 7 for the charging
+20240202 21:31:58.760 [pool-2-thread-2] INFO  chargingStation7 - Station ID: 7 is free.
+20240202 21:32:05.207 [pool-3-thread-1] INFO  chargingStation7 - Due to Windy weather, Energy Source set at Station ID: 7 is WIND
+20240202 21:32:12.733 [main] INFO  chargingStation7 - Vehicle 285 is assigned to station with ID:7.
