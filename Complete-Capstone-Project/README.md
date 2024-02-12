@@ -29,7 +29,7 @@ Created a capstone project with the following functionality to our project:
       <br/>
 4. Booking timeslots for each car and making priority queues. Yu Tian
    <br/>    
-5. Several car charging stations are available with n location in it. Only one car can be in one charging location. Aysha Fazal
+5. Several car charging stations are available with n location in it. Only one car can be in one charging location. - Aysha Fazal
       <br/> 
 6. Charging one car takes a fixed time. If all places are occupied, the car will not wait for more than a certain time and will go to another car charging station. Maria Saleem
       <br/> 
