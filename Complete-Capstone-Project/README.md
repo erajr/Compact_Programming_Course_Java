@@ -8,7 +8,7 @@
 
 Created a capstone project with the following functionality to our project:
 <br/> 
-1. Add logs files for each day for each charging station, for each energy source and for all system as whole. - Eraj Rizvi
+1. Add logs files for each day for each charging station, for each energy source and for all system as whole. 
    <br/> 
 2. Give user the possibility to open the requested log file based on the name of the equipment or date.
     <br/> 
